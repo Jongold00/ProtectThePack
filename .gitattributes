@@ -1,0 +1,7 @@
+Full filter=lfs diff=lfs merge=lfs -text
+Day filter=lfs diff=lfs merge=lfs -text
+Night filter=lfs diff=lfs merge=lfs -text
+Cycle.wav filter=lfs diff=lfs merge=lfs -text
+'Full filter=lfs diff=lfs merge=lfs -text
+Cycle.wav' filter=lfs diff=lfs merge=lfs -text
+Full[[:space:]]Day[[:space:]]Night[[:space:]]Cycle.wav filter=lfs diff=lfs merge=lfs -text
